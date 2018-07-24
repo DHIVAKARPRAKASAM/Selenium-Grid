@@ -1,3 +1,5 @@
+//Node and hub done through command line
+
 package gridTest;
 
 import java.net.MalformedURLException;
